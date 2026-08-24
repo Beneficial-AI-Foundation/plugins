@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "beneficial-ai-foundation",
+  "description": "Official plugins published by the Beneficial AI Foundation.",
+  "owner": {
+    "name": "Beneficial AI Foundation"
+  },
+  "plugins": [
+    {
+      "name": "fvs",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Beneficial-AI-Foundation/formal-verification-skills.git",
+        "path": "./plugins/fvs",
+        "ref": "v2.2.0",
+        "sha": "6ff300c6cbd417974d6e656a65f08706e4db4583"
+      },
+      "description": "Formal verification workflows for Lean 4, including Rust extraction through Aeneas and paper or cryptography formalisation.",
+      "author": {
+        "name": "Beneficial AI Foundation"
+      },
+      "homepage": "https://github.com/Beneficial-AI-Foundation/formal-verification-skills",
+      "repository": "https://github.com/Beneficial-AI-Foundation/formal-verification-skills",
+      "license": "MIT",
+      "keywords": [
+        "formal-verification",
+        "lean4",
+        "aeneas",
+        "rust",
+        "cryptography"
+      ],
+      "category": "development"
+    }
+  ]
+}
