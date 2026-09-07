@@ -8,7 +8,7 @@ manifests point both Claude Code and Codex at an immutable release tag and commi
 
 | Plugin | Description | Current release |
 | --- | --- | --- |
-| `fvs` | Formal Verification Skills for Lean 4 | `v2.2.1` |
+| `fvs` | Formal Verification Skills for Lean 4 | `v2.3.0` |
 
 ## Claude Code
 
