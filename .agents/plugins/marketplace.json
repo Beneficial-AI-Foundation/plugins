@@ -10,8 +10,8 @@
         "source": "git-subdir",
         "url": "https://github.com/Beneficial-AI-Foundation/formal-verification-skills.git",
         "path": "./plugins/fvs",
-        "ref": "v2.3.1",
-        "sha": "9dd826caa6e8bd051c48182ae249bab87f6779b3"
+        "ref": "v2.3.2",
+        "sha": "0daf9311aa7603e14cc3bdb5c30e7de6aa70f5b4"
       },
       "policy": {
         "installation": "AVAILABLE",
