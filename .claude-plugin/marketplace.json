@@ -12,8 +12,8 @@
         "source": "git-subdir",
         "url": "https://github.com/Beneficial-AI-Foundation/formal-verification-skills.git",
         "path": "./plugins/fvs",
-        "ref": "v2.3.6",
-        "sha": "0f6e139cc95866b153efcf20f5124a13af115131"
+        "ref": "v2.3.7",
+        "sha": "b204796bca472f46551b885383021130010fec78"
       },
       "description": "Formal verification workflows for Lean 4, including Rust extraction through Aeneas and paper or cryptography formalisation.",
       "author": {
